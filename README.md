@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Asmaa Refat abdElmabood</h1>
 <h3 align="center">A passionate learner</h3>
-<img align="right" src="https://i.pinimg.com/564x/31/46/24/3146242becc3e55d96644f99e097d5be.jpg" alt="code"  height="300">
+<img align="right" src="https://i.pinimg.com/564x/31/46/24/3146242becc3e55d96644f99e097d5be.jpg" alt="code"  height="250">
 
 - 📫 How to reach me **asmaarefat071@gmail.com**
 

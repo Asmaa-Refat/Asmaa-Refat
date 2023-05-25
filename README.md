@@ -1,12 +1,15 @@
 <h1 align="center">Hi People 👋, I'm Asmaa Refat abdElmabood</h1>
-<h3 align="center">A passionate learner</h3>
-<img align="right" src="https://i.pinimg.com/564x/31/46/24/3146242becc3e55d96644f99e097d5be.jpg" alt="code"  height="250">
+<h3 align="center"> A passionate learner  </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaarefat&label=Profile+Views&style=for-the-badge&color=3b82f6"/> </p>
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" height="270" >
 
 - 📫 How to reach me **asmaarefat071@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### 🔎 &nbsp;Reach out to me
 <p align="left">
-<a href="https://linkedin.com/in/asmaa-refaat-59799821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa-refaat-59799821b" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/asmaa-refaat-59799821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa-refaat-59799821b" height="30" width="40" /></a>
 <a href="https://instagram.com/asmaarefat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmaarefat" height="30" width="40" /></a>
 </p>
 

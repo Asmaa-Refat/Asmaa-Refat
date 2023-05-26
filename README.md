@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning **German**
 - 📫 How to reach me **asmaarefat071@gmail.com**
 
-<h3 align="left">  🔎 &nbsp;Connect with me:</h3>
+
+<h3 align="left">  🔗 &nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asmaa-refaat-59799821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa-refaat-59799821b" height="30" width="40" /></a>
 <a href="https://fb.com/asmaa.refat.714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmaa.refat.714" height="30" width="40" /></a>
